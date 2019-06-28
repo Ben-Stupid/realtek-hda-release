@@ -4,11 +4,11 @@ A non-official repository for downloading Realtek High Definition Audio Driver a
 
 Universal Audio Driver (UAD) standalone packages may not include thirty party extension(s) and software component(s). They can be download from [here](https://github.com/alanfox2000/realtek-universal-audio-driver/wiki/Download#third-party).
 
-The lastest UAD components can be found at [this repository](https://github.com/alanfox2000/realtek-universal-audio-driver).
+The latest UAD components can be found at [this repository](https://github.com/alanfox2000/realtek-universal-audio-driver).
 
 ---------------------------------------
 
-## Lastest Infomation
+## Latest Infomation
 
 * <a href="https://www.station-drivers.com/index.php?option=com_kunena&view=topic&catid=18&id=17&Itemid=858&lang=en">Station-Drivers - [DRIVERS] Realtek High Definition Audio Codecs (HDA/UAD)</a>
 
