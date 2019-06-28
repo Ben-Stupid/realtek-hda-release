@@ -8,7 +8,7 @@ The latest UAD components can be found at [this repository](https://github.com/a
 
 ---------------------------------------
 
-## Latest Infomation
+## Latest Information
 
 * <a href="https://www.station-drivers.com/index.php?option=com_kunena&view=topic&catid=18&id=17&Itemid=858&lang=en">Station-Drivers - [DRIVERS] Realtek High Definition Audio Codecs (HDA/UAD)</a>
 
