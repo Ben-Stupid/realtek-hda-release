@@ -1,4 +1,4 @@
-# Realtek High Definition Driver Audio Download Mirror
+# Realtek High Definition Audio Driver Download Mirror
 
 A non-official repository for downloading Realtek High Definition Audio Driver and USB Audio Driver standalone packages which were released from Realtek FTP Server.
 
