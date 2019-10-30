@@ -4,7 +4,7 @@ A non-official repository for downloading Realtek High Definition Audio Driver a
 
 Universal Audio Driver (UAD) standalone packages may not include thirty party extension(s) and software component(s). They can be downloaded from [here](https://github.com/alanfox2000/realtek-universal-audio-driver/wiki/Download#third-party).
 
-Some of the Intel Smart Sound Technology drivers (ISST) found on standalone packages may only certified by "Smart Sound Technology". ISST WHQL release can be found on [here](https://www.station-drivers.com/index.php?option=com_kunena&view=topic&defaultmenu=860&Itemid=858&catid=18&id=238&lang=en&limitstart=6).
+Some of the Intel Smart Sound Technology drivers (ISST) included in standalone packages may only certified by "Smart Sound Technology". ISST WHQL release can be found on [here](https://www.station-drivers.com/index.php?option=com_kunena&view=topic&defaultmenu=860&Itemid=858&catid=18&id=238&lang=en&limitstart=6).
 
 The latest UAD components can be found at [this repository](https://github.com/alanfox2000/realtek-universal-audio-driver).
 
