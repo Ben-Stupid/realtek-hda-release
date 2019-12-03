@@ -31,7 +31,7 @@ The latest UAD components can be found at [this repository](https://github.com/a
 
 File Hosting: Amazon S3 Server
 
-File source: Realtek Semiconductor Corp
+File Source: Realtek Semiconductor Corp
 
 ---------------------------------------
 
