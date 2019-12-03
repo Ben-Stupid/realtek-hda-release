@@ -8,6 +8,8 @@ Some of the Intel Smart Sound Technology drivers (ISST) included in standalone p
 
 The latest UAD components can be found at [this repository](https://github.com/alanfox2000/realtek-universal-audio-driver).
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ---------------------------------------
 
 ## Latest Information
@@ -25,9 +27,14 @@ The latest UAD components can be found at [this repository](https://github.com/a
 * <a href="https://rsload.net/soft/21650-realtek-high-definition-audio-drivers.html">RSLOAD.NET - Realtek High Definition Audio Drivers</a>
 
 ---------------------------------------
+#### Credits:
+
+File Hosting: Amazon S3 Server
+
+File source: Realtek Semiconductor Corp: File source
 
 #### Support:
 
-To keep this repository maintenance, click the below donate button (PayPal)
+To keep this repository maintenance (daily check\categorize\upload numerous driver for different OEM), click the below donate button (PayPal)
 
 [![Foo](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VK8CDPFUMCYPN&source=url)
