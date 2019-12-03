@@ -33,6 +33,8 @@ File Hosting: Amazon S3 Server
 
 File source: Realtek Semiconductor Corp: File source
 
+---------------------------------------
+
 #### Support:
 
 To keep this repository maintenance (daily check\categorize\upload numerous driver for different OEM), click the below donate button (PayPal)
