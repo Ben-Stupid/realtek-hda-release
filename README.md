@@ -1,4 +1,4 @@
-# Realtek Audio Driver Download Mirror
+## Realtek Audio Driver Download Mirror
 
 A non-official repository for downloading Realtek High Definition Audio Driver and USB Audio Driver standalone packages which were released from Realtek FTP Server.
 
@@ -13,7 +13,7 @@ The latest UAD components can be found at [this repository](https://github.com/a
 
 ---------------------------------------
 
-## Latest Information
+### Latest Information
 
 * <a href="https://www.station-drivers.com/index.php?option=com_kunena&view=topic&catid=18&id=17&Itemid=858&lang=en">Station-Drivers - [DRIVERS] Realtek High Definition Audio Codecs (HDA/UAD)</a>
 
@@ -28,7 +28,7 @@ The latest UAD components can be found at [this repository](https://github.com/a
 * <a href="https://rsload.net/soft/21650-realtek-high-definition-audio-drivers.html">RSLOAD.NET - Realtek High Definition Audio Drivers</a>
 
 ---------------------------------------
-#### Credits:
+### Credits:
 
 File Hosting: Amazon S3 Server
 
@@ -36,6 +36,6 @@ File Source: Realtek Semiconductor Corp. (ftp://ftp3.realtek.com)
 
 ---------------------------------------
 
-#### Support:
+### Support:
 
 If you want to ![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg) for daily checking\categorization\uploading numerous drivers, you can [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VK8CDPFUMCYPN&source=url) to the maintainer.
