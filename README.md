@@ -38,6 +38,4 @@ File Source: Realtek Semiconductor Corp. (ftp://ftp3.realtek.com)
 
 #### Support:
 
-To keep this repository maintenance (daily check\categorize\upload numerous driver for different OEM), click the below donate button (PayPal)
-
-[![Foo](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VK8CDPFUMCYPN&source=url)
+If you want to ![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg) for daily check\categorize\upload numerous driver, you can [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VK8CDPFUMCYPN&source=url) to maintainer.
