@@ -9,6 +9,7 @@ Some of the Intel Smart Sound Technology drivers (ISST) included in standalone p
 The latest UAD components can be found at [this repository](https://github.com/alanfox2000/realtek-universal-audio-driver).
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://raw.githubusercontent.com/alanfox2000/realtek-hda-release/master/LICENSE)
+[![Github all releases](https://img.shields.io/github/downloads/alanfox2000/realtek-hda-release/total.svg)](https://GitHub.com/alanfox2000/realtek-hda-release/releases/)
 
 ---------------------------------------
 
